@@ -34,4 +34,4 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 # media files
-/uploads/
+/uploads/*
